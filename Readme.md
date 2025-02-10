@@ -33,7 +33,7 @@ El proyecto utiliza una base de datos **H2** para la persistencia de datos, con 
 
 1. **Clona el repositorio:**
    ```bash
-   git clone <url_del_repositorio>
+   git clone https://github.com/AlbertoAlonsoMc/Prueba-Tecnica-GFT-Inditex.git
 
 2. **Abre y ejecuta el proyecto en tu IDE.**
 3. **Accede a la API de Swagger en: http://localhost:8080/swagger-ui.html**
